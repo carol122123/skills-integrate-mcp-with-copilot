@@ -3,6 +3,7 @@
 		"github": {
 			"url": "https://api.githubcopilot.com/mcp/",
 			"type": "http"
+            // Integração MCP com GitHub Copilot
 		}
 	},
 	"inputs": []
